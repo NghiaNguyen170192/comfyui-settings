@@ -1,0 +1,11 @@
+A single full-body chibi RPG game character sprite of Zhao Yun, the young Three Kingdoms general, walking. One large figure only, centered in a square image and filling most of its height, with a small margin of empty background above the spear tip and below the boots.
+
+Character: chibi proportions, about 2.5 heads tall, with a lean, athletic build. Large youthful face, clean-shaven, sharp eyebrows, bright determined eyes, long black hair tied back. Polished silver helmet with a white plume. Layered white knee-length tunic with sky-blue trim, so both legs and boots are fully visible below the knee, silver scale-armor shoulder guards and chest plate, sky-blue waist sash, white leather belt and bracers, white boots with silver trim.
+
+Weapon: he carries a long silver spear in one hand, held away from the legs. The spear has a silver shaft and one long, straight, narrow steel blade at the top with a small white tassel below it. It is held upright, only slightly taller than he is, and fully visible inside the cell.
+
+Camera: top-down RPG view from a high three-quarter angle, looking down at about 45 degrees. The top of the helmet and the shoulders are prominent, and the legs are short and foreshortened.
+
+Style: polished hand-painted 2D game illustration with clean dark outlines, detailed armor texture and a cohesive white, silver and sky-blue palette.
+
+Background: a completely flat, solid, saturated pure green color, RGB 0 255 0, identical across the whole image, smooth with no texture, no pattern, no shadow and no outline glow. Only the figure and spear are on it.

@@ -1,0 +1,11 @@
+A single full-body chibi RPG game character sprite of Guan Yu, the legendary Three Kingdoms general, walking. One large figure only, centered in a square image and filling most of its height, with a small margin of empty background above the glaive blade and below the boots.
+
+Character: chibi proportions, about 2.5 heads tall, with a tall, imposing build. Large deep crimson-red face, long narrow eyes, thick upswept eyebrows, and a very long, flowing black beard that ends above the belt. Dark teal-blue cloth headwrap with a small gold ornament. Layered dark teal-blue knee-length tunic with gold trim, so both legs and boots are fully visible below the knee, bronze scale-armor shoulder guards and chest plate, deep red waist sash, brown leather belt and bracers, black boots.
+
+Weapon: he carries a long crescent-bladed glaive in one hand, held away from the legs. The glaive has a dark wooden shaft and one large, curved steel crescent blade at the top with a bronze dragon engraving at its base. It is held upright, only slightly taller than he is, and fully visible inside the cell.
+
+Camera: top-down RPG view from a high three-quarter angle, looking down at about 45 degrees. The top of the headwrap and the shoulders are prominent, and the legs are short and foreshortened.
+
+Style: polished hand-painted 2D game illustration with clean dark outlines, detailed armor texture and a cohesive dark teal-blue, bronze and crimson palette.
+
+Background: a completely flat, solid, saturated pure green color, RGB 0 255 0, identical across the whole image, smooth with no texture, no pattern, no shadow and no outline glow. Only the figure and glaive are on it.
