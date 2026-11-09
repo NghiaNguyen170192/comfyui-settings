@@ -1,10 +1,10 @@
-A single full-body chibi RPG game character sprite of Liu Bei, the benevolent Three Kingdoms ruler, walking. One large figure only, centered in a square image and filling most of its height, with a small margin of empty background above the sword tip and below the boots.
+A single full-body chibi RPG game character sprite of Liu Bei, the benevolent Three Kingdoms ruler, walking. One large figure only, centered in a square image and filling most of its height, with a small margin of empty background above the head and below the boots.
 
 Character: chibi proportions, about 2.5 heads tall, with a medium, dignified build. Large kind face, calm gentle eyes, long earlobes, thin black moustache and short goatee, black hair in a topknot. Small black official's cap with a gold ornament. Layered golden-yellow knee-length tunic with deep crimson trim, so both legs and boots are fully visible below the knee, light bronze shoulder guards and chest plate, deep crimson waist sash, brown leather belt and bracers, dark brown boots.
 
-Weapon: he carries one straight double-edged sword with a gold hilt in one hand, held away from the legs, with the blade pointing straight up and fully visible inside the cell. A matching second sword in a dark scabbard is strapped diagonally across his back, with its hilt showing above one shoulder.
+Weapon: he carries one short, straight double-edged sword with a gold hilt in one hand. His hand grips it at hip height, with the blade pointing down and outward at an angle, away from the legs, and the tip ending above the knee. A matching second sword in a short dark scabbard is strapped diagonally across his upper back, with its hilt showing above one shoulder and the scabbard ending above the waist.
 
-Camera: top-down RPG view from a high three-quarter angle, looking down at about 45 degrees. The top of the cap and the shoulders are prominent, and the legs are short and foreshortened.
+Camera: overhead RPG game camera, raised high and tilted down at about 45 degrees. The top of the cap and the shoulders are prominent, and the legs are short and foreshortened.
 
 Style: polished hand-painted 2D game illustration with clean dark outlines, detailed fabric and armor texture and a cohesive golden-yellow, crimson and bronze palette.
 

@@ -4,7 +4,7 @@ Character: chibi proportions, about 2.5 heads tall, with a lean, athletic build.
 
 Weapon: he carries a long silver spear in one hand, held away from the legs. The spear has a silver shaft and one long, straight, narrow steel blade at the top with a small white tassel below it. It is held upright, only slightly taller than he is, and fully visible inside the cell.
 
-Camera: top-down RPG view from a high three-quarter angle, looking down at about 45 degrees. The top of the helmet and the shoulders are prominent, and the legs are short and foreshortened.
+Camera: overhead RPG game camera, raised high and tilted down at about 45 degrees. The top of the helmet and the shoulders are prominent, and the legs are short and foreshortened.
 
 Style: polished hand-painted 2D game illustration with clean dark outlines, detailed armor texture and a cohesive white, silver and sky-blue palette.
 
